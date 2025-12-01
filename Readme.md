@@ -220,7 +220,7 @@ Make sure `jest.setup.ts` contains:
 import "@testing-library/jest-dom";
 ```
 
-# 🔐 Authentication Flow
+# Authentication Flow
 
 1. User signs in via frontend `/login`
 2. API returns a JWT token
@@ -230,7 +230,7 @@ import "@testing-library/jest-dom";
 
 ---
 
-# 📡 API Endpoints
+# API Endpoints
 
 ### **Auth Routes**
 
@@ -268,7 +268,7 @@ PUT  /users/:id
 
 ---
 
-# 🧱 Folder Breakdown
+# Folder Breakdown
 
 ### Backend Key Files
 
